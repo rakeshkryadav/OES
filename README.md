@@ -24,12 +24,12 @@ View Ranking <br>
 # Images
 Home
 ![](https://github.com/rakeshkryadav/OES/blob/main/image/img01.png)
-Login
+<br>Login
 ![](https://github.com/rakeshkryadav/OES/blob/main/image/img02.png)
-Student Dashboard
+<br>Student Dashboard
 ![](https://github.com/rakeshkryadav/OES/blob/main/image/img03.png)
 ![](https://github.com/rakeshkryadav/OESr/blob/main/image/img04.png)
-Admin Dashborad
+<br>Admin Dashborad
 ![](https://github.com/rakeshkryadav/OES/blob/main/image/img05.png)
 ![](https://github.com/rakeshkryadav/OES/blob/main/image/img06.png)
 ![](https://github.com/rakeshkryadav/OES/blob/main/image/img07.png)
