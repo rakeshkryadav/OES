@@ -6,19 +6,19 @@ arranging invigilators, coordinating with examiners, and more. The student can a
 exam from home with the help of a web based exam application.
 
 # Admin Feature
-Login
-Add and Remove Exams
-Delete Users
-View Feedbacks
-View Users
-View Rankings
+Login <br>
+Add and Remove Exams <br>
+Delete Users <br>
+View Feedbacks <br>
+View Users <br>
+View Rankings <br>
 
 
 # Student Feature
-Create Account
-Login
-Take Exam
-View Result
-View Ranking
+Create Account <br>
+Login <br>
+Take Exam <br>
+View Result <br>
+View Ranking <br>
 
 # Images
